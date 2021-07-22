@@ -8,7 +8,7 @@ Concrete Form[ing]work workshop
 University of Malaga 
 December 2020
 
-This is a Grasshopper 3D and Rhino file generated for the online Masters student workshop. 
+This is a Grasshopper 3D and Rhino file provided to an online Masters student workshop in 2020. 
 
 These files can be used to simulate arrow smocking patterns from the "smocking pattern generation" script. 
 
