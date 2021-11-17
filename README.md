@@ -1,4 +1,4 @@
-# smocking-simulation
+# OrinNuno: smocking-simulation
 **************************************************************************************************************************************************************************
 
 These files are generated as part of Annie Locke Scherer's PhD thesis (2021) "Concrete Form[ing]work: Design, Fabrication, Simulation & Correlation of Parametric Patterned Flexible Formwork and Concrete." See alscherer.com for more details. 
